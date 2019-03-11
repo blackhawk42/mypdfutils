@@ -1,6 +1,5 @@
 from PyPDF2 import PdfFileMerger
 import argparse
-import sys
 
 if __name__ == '__main__':
     # Command-line arguments
